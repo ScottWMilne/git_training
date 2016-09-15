@@ -17,6 +17,7 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 # http://stackoverflow.com/questions/1686569/filtering-a-data-frame-in-r
 
 validdata<-data[data$Var %in% c("A","B","C","D"),]
+;lA;LKASD;LKFD;LKA;LKJNAV
 # Aggregating by ID
 # sum the "TotalCost" column for each "ID" column
 
