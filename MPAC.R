@@ -10,7 +10,7 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 # Compare Means
 # Cross Tabulations
 # Validate Variables
-
+lkdsjf;laks
 
 # only print rows that have a valid variable in "Var": A,B,C,D (not E)
 
